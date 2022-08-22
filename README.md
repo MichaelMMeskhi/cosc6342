@@ -1,2 +1,3 @@
-# cosc6342
-Machine Learning at the University of Houston
+# Machine Learning Course at the University of Houston
+
+This repository contains supplemental material, assignments, and other. 
